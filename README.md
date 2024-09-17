@@ -16,7 +16,7 @@ Multiple Conv2D layers with ReLU activations and MaxPooling2D for downsampling.
 Dropout layers are added to prevent overfitting.
 The final fully connected layers consist of Dense layers with ReLU, followed by the output layer with a softmax activation to predict one of the seven emotions (angry, disgust, fear, happy, neutral, sad, surprise).
 Training:
-The model is trained using the FER2013 dataset, now stored as images, for 100 epochs.
+The model is trained using the FER2013 dataset (https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset), now stored as images, for 100 epochs.
 The categorical cross-entropy loss function is used, and the optimizer is Adam.
 Real-time Emotion Detection:
 
