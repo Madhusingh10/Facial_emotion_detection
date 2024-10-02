@@ -42,6 +42,7 @@ Potential Applications:
 Mental health assessments: Using emotion detection to monitor emotional states.
 User experience analysis: Real-time emotion detection during software or product usage.
 This system demonstrates a robust and real-time approach to facial emotion detection and can be expanded further for various applications.
-![WhatsApp Image 2024-10-02 at 11 24 37 AM](https://github.com/user-attachments/assets/f2603eab-e152-46a0-aabf-3cc8f40f18a8)
+![WhatsApp Image 2024-10-02 at 3 17 25 PM](https://github.com/user-attachments/assets/ea50513a-a015-4565-9186-294ffb923ef5)
+
 
 
